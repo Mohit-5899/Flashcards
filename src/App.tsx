@@ -47,10 +47,10 @@ const AppLayout = ({ children, theme, toggleTheme }: {
                   className="text-2xl"
                   whileHover={{ rotate: [0, -10, 10, -10, 0], transition: { duration: 0.5 } }}
                 >
-                  🎴
+                  🧠
                 </motion.span>
                 <span className="bg-clip-text text-transparent bg-gradient-to-r from-primary-600 to-secondary-600 dark:from-primary-400 dark:to-secondary-400">
-                  Flashcards
+                  Recallify
                 </span>
               </Link>
             </div>

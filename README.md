@@ -1,4 +1,4 @@
-# Flashcards: Spaced Repetition Learning
+# Recallify: Spaced Repetition Learning
 
 A modern flashcard application built with React, TypeScript, and Tailwind CSS that implements the SM-2 spaced repetition algorithm for efficient learning.
 
@@ -24,8 +24,8 @@ A modern flashcard application built with React, TypeScript, and Tailwind CSS th
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Mohit-5899/Flashcards.git
-   cd flashcards
+   git clone https://github.com/Mohit-5899/Recallify.git
+   cd recallify
    ```
 
 2. Install dependencies:
